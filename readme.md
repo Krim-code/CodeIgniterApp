@@ -1,4 +1,6 @@
 ## CodeIgniter Blog
+![Its the best img, realy](/2.jpg)
+
 This is a simple blog application built using the CodeIgniter framework version 3, PHP version 8.1, and MySQL database. The application consists of a basic view to display blog posts and a create form to add new posts.
 
 ## Requirements
