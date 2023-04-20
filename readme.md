@@ -12,6 +12,6 @@ To install this application, follow these steps:
 
 	- Clone the repository to your local machine.
 	- Import the blogapp.sql file in your MySQL database.
-	- Update the database credentials in the application/config/database.php and application/config/config.php (base_path) file.
+	- Update the database credentials in the application/config/database.php and application/config/config.php (base_path) files.
 	- Navigate to the project directory in your terminal and run php -S localhost:8000.
 	- Open your browser and go to http://localhost:8000.
